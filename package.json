@@ -74,7 +74,7 @@
     "bowser": "1.9.4",
     "chromedriver": "96.0.0",
     "classnames": "2.2.5",
-    "cookie": "0.4.1",
+    "cookie": "0.4.2",
     "copy-webpack-plugin": "4.6.0",
     "css-loader": "0.23.1",
     "email-validator": "2.0.4",
